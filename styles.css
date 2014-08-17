@@ -1,0 +1,23 @@
+#message{
+	background: red;
+	font-size: 20px;
+	color: white;
+	position: absolute;
+	left:50%;
+	margin-left:-250px;
+	top: 30%;
+	width: 400px;
+	padding: 50px;
+	display: none;
+
+}
+
+.close{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+#loader{
+	display: none;
+}
